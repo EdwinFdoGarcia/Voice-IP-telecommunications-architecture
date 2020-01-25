@@ -5,7 +5,7 @@ Voice IP | telecommunications architecture.
 
 
 VOICE IP telecommunications architecture.
-We unify all our offices with a unique phone number +5715800030 from Twilio.com, a PBX managed by Asterix in the Amazon cloud
+We unify all our offices with a unique phone number +5715800030 from Twilio.com, a PBX managed by FreePBX and Asterix in the Amazon cloud EC2
 
 **Used platforms:**
 AWS of course!
