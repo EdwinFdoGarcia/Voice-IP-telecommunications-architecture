@@ -1,5 +1,4 @@
-# Voice-IP-telecommunications-architecture.
-Voice IP | telecommunications architecture.
+# Voice IP Telecommunications Architecture.
 
 ![Voice IP | telecommunications architecture ](images/Voice-IP-telecommunications-architecture.png)
 
